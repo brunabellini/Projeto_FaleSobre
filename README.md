@@ -1,2 +1,2 @@
-Projeto Fale Sobre
-Repositório de pesquisas desenvolvidas para a criação de um futuro aplicativo que visa diminuir a problemáticado suicídio na atual sociedade 
+Esse projeto foi desenvolvido como final de semestre na PUC-SP e tem coo direcionamento a coleta de dados e criação de soluções para a 
+problemáticado do suicídio na atual sociedade 
