@@ -1,1 +1,1 @@
-Esse projeto foi desenvolvido como projeto final de conclusão de semestre na PUC-SP e tem como direcionamento a coleta de dados e criação de soluções a partir de análise de datasets para a o entendimento da questão do *Suicídio* durante a pandemia do Corona Vírus.
+Esse projeto foi desenvolvido como projeto final de conclusão de semestre na PUC-SP e tem como direcionamento a coleta de dados e criação de soluções a partir de análise de datasets para a o entendimento da questão do **Suicídio** durante a *pandemia do Corona Vírus*.
