@@ -1,0 +1,6 @@
+Race,Number of Deaths,Crude Rate,YPLL,Crude YPLL Rate,appliedFilters
+White,"36,206",19.00,961786,504.74,"Suicide All Injury Deaths, All States state(s), All Races race(s), All Ethnicities Ethincity, All Sexes, Year Range: 2019 - 2019, Age Range: 12 - 70"
+Black,"3,163",8.93,108943,307.41,"Suicide All Injury Deaths, All States state(s), All Races race(s), All Ethnicities Ethincity, All Sexes, Year Range: 2019 - 2019, Age Range: 12 - 70"
+American Indian,639,17.67,23508,649.9,"Suicide All Injury Deaths, All States state(s), All Races race(s), All Ethnicities Ethincity, All Sexes, Year Range: 2019 - 2019, Age Range: 12 - 70"
+Asian/PI,"1,471",8.58,46617,271.91,"Suicide All Injury Deaths, All States state(s), All Races race(s), All Ethnicities Ethincity, All Sexes, Year Range: 2019 - 2019, Age Range: 12 - 70"
+"** indicates Unstable values, -- indicates Suppressed values, --* indicates Secondary Suppression",,,,,
