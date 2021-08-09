@@ -4,9 +4,8 @@
 
 <h2 id="about">Autoras</h2>
 
-<img src="https://user-images.githubusercontent.com/80490047/128752878-0c54332b-7b2f-4d1f-a5c5-6d6556d10cad.jpg" align="left" width="200"/> 
+<img src="https://user-images.githubusercontent.com/80490047/128752878-0c54332b-7b2f-4d1f-a5c5-6d6556d10cad.jpg" align="left" width="170"/> 
 
-<br />
 <br />
 
 <p><strong>Nome: </strong>Bruna Bellini Faria</p> 
@@ -17,11 +16,9 @@
 
 <br />
 <br />
-<br />
 
-<img src="https://user-images.githubusercontent.com/80490047/128752871-f82751ab-fd0a-444e-9d90-b825d702c7df.jpg" align="left" width="200"/> 
+<img src="https://user-images.githubusercontent.com/80490047/128752871-f82751ab-fd0a-444e-9d90-b825d702c7df.jpg" align="left" width="170"/> 
 
-<br />
 <br />
 
 <p><strong>Nome: </strong>Ana Beatriz Oliveira de Macedo</p> 
