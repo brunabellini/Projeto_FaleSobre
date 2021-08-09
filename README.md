@@ -1,12 +1,12 @@
 <center><h2>Fale Sobre</h2></center>
 
-<h4><a href="#about">Autores</a> | <a href="#introduction">Introdução</a> | <a href="#project">O projeto</a> | <a href="#duvidas">Dúvida</a> | <a href="#vd">Design app</a> | <a href="#reference">Referências</a> | <a href="#acknowledgement">Conhecimentos</a></h4> |
+<h4><a href="#about">Autores</a> | <a href="#introduction">Introdução</a> | <a href="#project">O projeto</a> | <a href="#duvidas">Dúvida</a> | <a href="#vd">Design app</a> | <a href="#reference">Referências</a> | <a href="#acknowledgement">Conhecimentos</a> |</h4>
 
-![Alt text](C:\Users\bru30\OneDrive\Pictures\Capturas de tela\2021-05-17 (3).png)
+![2021-05-17 (3)](https://user-images.githubusercontent.com/80490047/128750700-f70c4dc2-3892-4717-99cb-5d8d64347d00.png)
 
 <h2 id="about">Autores</h2>
 
-<img src=""/>
+![AnyConv com__d9ac2679-9575-4a3c-9618-b4df4c13b29f](https://user-images.githubusercontent.com/80490047/128751318-b45af485-03c0-485f-bc7e-13cea8206769.jpg)
 
 <p>
 	<p><strong>Nome: </strong>Bruna Bellini Faria</p> 
@@ -18,6 +18,8 @@
 		</p>
 	</p>
 </p>
+
+![AnyConv com__a78c8924-6fa2-490c-956a-60dc90f86180](https://user-images.githubusercontent.com/80490047/128751335-2a34ca8d-f056-4e58-a561-dd228e3a2346.jpg)
 
 <p>
 	<p><strong>Nome: </strong>Ana Beatriz Oliveira de Macedo</p> 
@@ -76,10 +78,10 @@ Abaixo você encontra o link do repositório com todos os dados até entâo cole
 <p>Esse projeto ainda está em desenvolvimento e necessita de ajuda para continuar crescendo.</p>
 
 <ul>
-	<li>Terminar e evoluir o design do aplicativo</li>
-	<li>Construir o aplicativo por código ou em sites sem código</li>
-	<li>Elaborar o quiz/formulário que estara presente no aplicativo</li>
-	<li>Utilizar de ajuda profissional de pessoas da área da psicologia para análise de informações e funções do aplicativo</li>
+	<li> [ ] Terminar e evoluir o design do aplicativo</li>
+	<li> [ ] Construir o aplicativo por código ou em sites sem código</li>
+	<li> [ ] Elaborar o quiz/formulário que estara presente no aplicativo</li>
+	<li> [ ] Utilizar de ajuda profissional de pessoas da área da psicologia para análise de informações e funções do aplicativo</li>
 </ul>
 
 <h2 id="reference">Referências</h2>
@@ -91,13 +93,13 @@ Abaixo você encontra o link do repositório com todos os dados até entâo cole
 	<li>http://svs.aids.gov.br/dantps/centrais-de-conteudos/paineis-de-monitoramento/mortalidade/cid10/</li>
   	<li>https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm</li>
  	<li>https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate</li>
- 	<li>https://twitter.com/home?lang=pt</li>
-  	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_05_06_CVV_Relatorio_Mensal_Abril20.pdf</li>
-  	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_07_CVV_Relatorio_Mensal_Maio.pdf</li>
- 	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Junho-e-Julho-2020.pdf</li> 
-	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Agosto-e-Setembro-2020_baixa.pdf</li> 
- 	<li>https://www.cvv.org.br/wp-content/uploads/2021/03/CVV-Relatorio-Mensal-Dezembro-2020_baixa.pdf</li>
- 	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-1-Trimestre-2021_Baixa.pdf</li> 
+	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Agosto-e-Setembro-2020_baixa.pdf</li> 
+	<li>https://www.cvv.org.br/wp-content/uploads/2021/03/CVV-Relatorio-Mensal-Dezembro-2020_baixa.pdf</li> 
+	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-1-Trimestre-2021_Baixa.pdf</li>
+	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_05_06_CVV_Relatorio_Mensal_Abril20.pdf</li> 
+	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_07_CVV_Relatorio_Mensal_Maio.pdf</li> 
+	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Junho-e-Julho-2020.pdf</li> 
+	
 </ul>
 
 
