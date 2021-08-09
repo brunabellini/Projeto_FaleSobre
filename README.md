@@ -1,10 +1,12 @@
-![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 <center><h2>Fale Sobre</h2></center> <img src="https://user-images.githubusercontent.com/80490047/128760467-2b186f0c-b09e-4e36-82a0-d8cad6f3c193.png" width="100"> <p><i>Imagem feita pelas autoras<i/><p/>
 	
 
 
 <h4><a href="#about">Autoras</a> | <a href="#introduction">Introdução</a> | <a href="#project">O projeto</a> | <a href="#duvidas">Dúvida</a> | <a href="#vd">Design app</a> | <a href="#reference">Referências</a> | <a href="#acknowledgement">Conhecimentos</a> |</h4>
 
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
 <h2 id="about">Autoras</h2>
 
 <img src="https://user-images.githubusercontent.com/80490047/128752878-0c54332b-7b2f-4d1f-a5c5-6d6556d10cad.jpg" align="left" width="170"/> 
@@ -34,7 +36,9 @@
 <br />
 <i>Imagens feitas por Memoji Apple<i/>
 <br />
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 <h2 id="introduction">Introdução </h2>
 
 
@@ -45,7 +49,9 @@
 	<p>Para a finalização idealizamos um aplicativo do qual tem a intenção de auxiliar pessoas que conheçam alguém que está passando por momentos complicados relacionados a saúde mental, depressão, suicídio, crises psicológicas e muito mais na sociedade atual, tentando ajudá-la através de dinâmicas simples e explicações sobre assuntos diversos que promovem a interação saudável e da melhor maneira entre o necessitado e quem deseja ajudar da maneira.</p>
 	
 </p>
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 <h2 id="project">O projeto</h2>
 
 <strong>Pré-requisitos:</strong>
@@ -57,19 +63,25 @@
 		<li>Dedicação, paciência e mente aberta</li>
 	</ul>
 </p>
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 <h2 id="duvidas">Dúvida</h2>
 
 <strong>Concorrente ou complementar? </strong>
 <p>
 	Podemos pensar agora se o aplicativo seria um concorrente para o CVV (Centro de Valorização a Vida) e outras organizações que ajudam quem precisa. Porém, ao olharmos e compararmos provamos que não seriamos concorrentes e sim complementares, pois nosso foco de usuários é para aqueles que desejam ajudar, desenvolvendo uma comunicação e interação com aqueles que aparentam precisar de ajuda ou já deixaram explícito a tendência suicida, demonstrando que dentro dessa intenção temos o objetivo de nos destacar nos quesitos de eficiência, pelas dinâmicas pré prontas fáceis e diretas, e de facilidade de uso, por funcionar a partir de um sistema completamente remoto e pelo direcionamento das atividades ser por meio de formulário. Ao contrário do CVV, que utiliza de atendimentos remotos e presenciais com necessidade de funcionamento a partir de pessoas ativas, para ajudar diretamente a pessoa que está tendo algum tipo de crise ou problema.
 </p>
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 <h2 id="vd">Design em andamento</h2>
 <ul>
 	<li><strong>Para acessar o design do aplicativo no MarvelApp: </strong><a href="https://marvelapp.com/prototype/5agdbgb">Design Link</a></li>
 </ul>
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 <h2>Resultados</h2>
 
 Abaixo você encontra o link do repositório com todos os dados até então coletados para a evolução do projeto e análise de dados para o futuro desenvolvimento do aplicativo.
@@ -77,7 +89,9 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 <ul>
 	<li>https://github.com/brunabellini/Projeto_FaleSobre</li>
 </ul>
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/>  
 <h2>Planos futuros</h2>
 <p>Esse projeto ainda está em desenvolvimento e necessita de ajuda para continuar crescendo.</p>
 
@@ -87,7 +101,9 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 	<li> [ ] elaborar o quiz/formulário que estará presente no aplicativo</li>
 	<li> [ ] utilizar de ajuda profissional de pessoas da área da psicologia para análise de informações e funções do aplicativo</li>
 </ul>
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 <h2 id="reference">Referências</h2>
 
 <ul>
@@ -106,7 +122,9 @@ Abaixo você encontra o link do repositório com todos os dados até então cole
 	
 </ul>
 
-
+<br />
+	
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 <h2 id="acknowledgement">Conhecimentos</h2>
 
 <p>
