@@ -91,6 +91,7 @@ Abaixo você encontra o link do repositório com todos os dados até entâo cole
 <h2 id="acknowledgement">Conhecimentos</h2>
 
 <p>
-	Esse projeto nos trouxe uma nova visão de mundo, grande parte do tema tratado neste projeto e negligenciado e escondido pela sociedade, a grande maioria das pessoas não procura se informar sobre os problemas mentais pelo tabi que ela carrega, familias, joprnais, noticiarios dizem que é frescura, quando a realidade é contrária diversas pesqusia de lugares diferentes comprovaram que a saúde mental danfificada pode levar a sérios problemas futurosas, principalmente pára adolescentes e crianças que a grande causa são as redes sociais.
+	Foi muito importante para todo o desenvolvimento do trabalho manter a mente aberta para buscar diversos dados e informações muito diferentes do que estamos acostumados, a formulação dos dados para tentar diminuir o tabu da sociedade com o tema do suicídio foi um grande foco deste trabalho, durante o processo de desenvolvimento houveram debates sobre o tem, vários deles foram entre as autoras e os colegas de classe, porém um deles foi com uma professora de psicologia da PUC-SP, Paula Peron. Todo esse esforço fez com que entendêssemos muito mais sobre o assunto a ponto de conseguirmos reconhecer e ajudar alguém com tendências suicidas da maneira mais correta possível em questão de abordagem e do suporte a essa pessoa no geral. Por fim, esta nova visão de mundo nos fez diminuir a negligência e minimização do tema que a sociedade impos em nós.
 </p>
+
 <img src="" />
