@@ -34,11 +34,8 @@
 
 <p>
 	<p>No ano passado (2020) e no início deste ano (2021), marcado pela pandemia do coronavírus, os números de pessoas com depressão aumentaram muito. Afinal, o isolamento social, junto com o medo, incerteza e estresse são catalisadores para os sintomas de ansiedade e depressão e se tornaram a maior aliada de grande parte das pessoas que cumpriam as regras de quarentena.</p>
-	
 	<p>O projeto visa a temática dos problemais psicológicos, pois percebemos que o estudo e abordagem do assunto no atual momento histórico é essencial, portanto através de análise de dados nos propursermos a entender a situação e ajudar da melhor maneira possível, tentando abordar o assunto e apresenta-lo para que o tabu construído em volta deste passe a ser o menor possível, principalmente dar um enfoque no suicídio, ocasionado em sua maioria por doenças mentais, que é um problema com uma dimensão enorme, porém pouco abordado.</p>
-	
 	<p>Toda a base do trabalho começou com a coleta e análise de dados, buscando por dados de qualquer tipo que julgavamos que tinha mínima ou total relação com o tema, isso até para decidir o direcionamento maior do projeto, depois passamos a refletir sobre todos esses dados deixando somente os relevantes e que fossem necessários para atribuir informações, com isso a extração desses dados foram feitas de diferentes jeitos, gerando gráficos, tabelas e até word clouds e no final revimos todos os dados e suas importâncias pra ver se ainda faziam sentido para a grande solução que pensamos.</p>
-	
 	<p>Para a finalização idealizamos um aplicativo do qual tem a intenção de auxiliar pessoas que conheçam alguém que está passando por momentos complicados relacionados a saúde mental, depressão, suicídio, crises psicológicas e muito mais na sociedade atual, tentando ajudá-la através de dinâmicas simples e explicações sobre assuntos diversos que promovem a interação saudável e da melhor maneira entre o necessitado e quem deseja ajudar da maneira.</p>
 	
 </p>
