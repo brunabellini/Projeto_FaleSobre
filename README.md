@@ -2,7 +2,7 @@
 
 <h4><a href="#about">Autores</a> | <a href="#introduction">Introdução</a> | <a href="#project">O projeto</a> | <a href="#vd">Design app</a> | <a href="#reference">Referências</a> | <a href="#acknowledgement">Conhecimentos</a></h4>
 
-<img src=![Alt text](C:\Users\bru30\OneDrive\Pictures\Capturas de tela\2021-05-17 (3).png/?raw=true "Title")>
+![Alt text](C:\Users\bru30\OneDrive\Pictures\Capturas de tela\2021-05-17 (3).png)
 
 <h2 id="about">Autores</h2>
 
