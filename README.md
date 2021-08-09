@@ -9,23 +9,23 @@
 <img src=""/>
 
 <p>
-	<p><strong>Nome:</strong> Bruna Bellini Faria</p> 
-	<p><strong>País:</strong></h4> Brasil</p>
-	<p><strong>Grau de escolaridade:</strong>
+	<p><strong>Nome: </strong>Bruna Bellini Faria</p> 
+	<p><strong>País: </strong></h4>Brasil</p>
+	<p><strong>Grau de escolaridade: </strong>
 		<p>
-			<p><u>Graduação em andamento:</u></strong>Ciência de Dados e Inteligência Artificial</p>
-      <p><u>Faculdade:</u></strong>PUC-SP</p>
+			<p><u>Graduação em andamento: </u></strong>Ciência de Dados e Inteligência Artificial</p>
+      			<p><u>Faculdade: </u></strong>PUC-SP</p>
 		</p>
 	</p>
 </p>
 
 <p>
-	<p><strong>Nome:</strong> Ana Beatriz Oliveira de Macedo</p> 
-	<p><strong>País:</strong></h4> Brasil</p>
+	<p><strong>Nome: </strong>Ana Beatriz Oliveira de Macedo</p> 
+	<p><strong>País: </strong></h4>Brasil</p>
 	<p><strong>Grau de escolaridade:</strong>
 		<p>
-			<p><u>Graduação em andamento:</u></strong>Ciência de Dados e Inteligência Artificial</p>
-      <p><u>Faculdade:</u></strong>PUC-SP</p>
+			<p><u>Graduação em andamento: </u></strong>Ciência de Dados e Inteligência Artificial</p>
+      			<p><u>Faculdade: </u></strong>PUC-SP</p>
 		</p>
 	</p>
 </p>
@@ -76,21 +76,21 @@ Abaixo você encontra o link do repositório com todos os dados até entâo cole
 	<li>https://pt.countryeconomy.com/demografia/mortalidade/causas-morte/suicidio/belgica</li>
 	<li>https://trends.google.com.br/trends/?geo=BR</li>
 	<li>http://svs.aids.gov.br/dantps/centrais-de-conteudos/paineis-de-monitoramento/mortalidade/cid10/</li>
-  <li>https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm</li>
-  <li>https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate</li>
-  <li>https://twitter.com/home?lang=pt</li>
-  <li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_05_06_CVV_Relatorio_Mensal_Abril20.pdf</li>
-  <li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_07_CVV_Relatorio_Mensal_Maio.pdf</li>
-  <li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Junho-e-Julho-2020.pdf</li> 
-  <li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Agosto-e-Setembro-2020_baixa.pdf</li> 
-  <li>https://www.cvv.org.br/wp-content/uploads/2021/03/CVV-Relatorio-Mensal-Dezembro-2020_baixa.pdf</li>
-  <li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-1-Trimestre-2021_Baixa.pdf</li> 
+  	<li>https://www.cdc.gov/nchs/pressroom/sosmap/suicide-mortality/suicide.htm</li>
+ 	 <li>https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate</li>
+ 	 <li>https://twitter.com/home?lang=pt</li>
+  	<li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_05_06_CVV_Relatorio_Mensal_Abril20.pdf</li>
+ 	 <li>https://www.cvv.org.br/wp-content/uploads/2017/05/2020_07_CVV_Relatorio_Mensal_Maio.pdf</li>
+ 	 <li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Junho-e-Julho-2020.pdf</li> 
+	  <li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-Mensal-Agosto-e-Setembro-2020_baixa.pdf</li> 
+ 	 <li>https://www.cvv.org.br/wp-content/uploads/2021/03/CVV-Relatorio-Mensal-Dezembro-2020_baixa.pdf</li>
+ 	 <li>https://www.cvv.org.br/wp-content/uploads/2017/05/CVV-Relatorio-1-Trimestre-2021_Baixa.pdf</li> 
 </ul>
 
 
-<h2 id="acknowledgement">Acknowledgement  -  승인</h2>
+<h2 id="acknowledgement">Conhecimentos</h2>
 
 <p>
-	This work is not possible without the overwhelming support from <strong>Jeju National University</strong>, <strong>Jeju Development Center</strong> and other selfless sponsors. I would like to specifically give a big thanks to <strong>Prof. Yungcheol Byun</strong> for being the best host ever and my mentor <strong>Dr. Bobby Gerardo</strong> for the help and guidance.
+	Esse projeto nos trouxe uma nova visão de mundo, grande parte do tema tratado neste projeto e negligenciado e escondido pela sociedade, a grande maioria das pessoas não procura se informar sobre os problemas mentais pelo tabi que ela carrega, familias, joprnais, noticiarios dizem que é frescura, quando a realidade é contrária diversas pesqusia de lugares diferentes comprovaram que a saúde mental danfificada pode levar a sérios problemas futurosas, principalmente pára adolescentes e crianças que a grande causa são as redes sociais.
 </p>
 <img src="" />
