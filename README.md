@@ -1,4 +1,7 @@
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 <center><h2>Fale Sobre</h2></center> <img src="https://user-images.githubusercontent.com/80490047/128760467-2b186f0c-b09e-4e36-82a0-d8cad6f3c193.png" width="100"> <p><i>Imagem feita pelas autoras<i/><p/>
+	
+
 
 <h4><a href="#about">Autoras</a> | <a href="#introduction">Introdução</a> | <a href="#project">O projeto</a> | <a href="#duvidas">Dúvida</a> | <a href="#vd">Design app</a> | <a href="#reference">Referências</a> | <a href="#acknowledgement">Conhecimentos</a> |</h4>
 
@@ -33,6 +36,7 @@
 <br />
 
 <h2 id="introduction">Introdução </h2>
+
 
 <p>
 	<p>No ano passado (2020) e no início deste ano (2021), marcado pela pandemia do coronavírus, os números de pessoas com depressão aumentaram muito. Afinal, o isolamento social, junto com o medo, incerteza e estresse são catalisadores para os sintomas de ansiedade e depressão e se tornaram a maior aliada de grande parte das pessoas que cumpriam as regras de quarentena.</p>
